@@ -4,6 +4,8 @@ p {
 
 #trex {
   color: #34766c;
+  transition: transform 500ms linear;
+  transform: translateY(0);
 }
 
 @keyframes leg {
@@ -21,4 +23,8 @@ p {
 
 #leg-2 {
   animation: 150ms linear 0s infinite alternate-reverse leg;
+}
+
+#trex.jump {
+  transform: translateY(-80px);
 }
