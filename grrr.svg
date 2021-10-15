@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="720" viewBox="0 0 144 144" version="1.1" id="trex">
+    <g id="g142" stroke="none" fill="currentColor">
+        <path d="M92 73h-4v14h-4v6h-4v4h-4v4H48v-4h-4v-4h-4v-4h-4v-4h-4V61h4v8h4v4h4v4h8v-4h4v-4h6v-4h6v-4h4V36h4v-4h32v4h4v18H92v4h12v4H88v8h8v8h-4zM80 37v4h4v-4z" id="trex-body"/>
+        <path d="M64.07 91.896 64 105h-4v4h-4v4h4v4h-8V91.8Z" id="leg-1"/>
+        <path d="M76.004 93.117 76 113h4v4h-8v-12h-4V93.132z" id="leg-2"/>
+    </g>
+</svg>

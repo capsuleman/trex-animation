@@ -1,0 +1,24 @@
+p {
+  background-color: chartreuse;
+}
+
+#trex {
+  color: #34766c;
+}
+
+@keyframes leg {
+  from {
+    transform: translateY(0);
+  }
+  to {
+    transform: translateY(-4px);
+  }
+}
+
+#leg-1 {
+  animation: 150ms linear 0s infinite alternate leg;
+}
+
+#leg-2 {
+  animation: 150ms linear 0s infinite alternate-reverse leg;
+}
